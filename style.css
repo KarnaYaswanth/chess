@@ -1,6 +1,6 @@
 body{
     margin: 0%;
-    background-image: url(../batman.jpg);
+    background-image: url(./batman.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
